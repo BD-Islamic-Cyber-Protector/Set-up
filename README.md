@@ -8,4 +8,4 @@ git clone https://github.com/BD-Islamic-Cyber-Protector/Set-up
 
 cd Set-up
 
-bash bscpkg.sh
+bash setup.sh
