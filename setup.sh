@@ -109,6 +109,8 @@ apt install proot -y
 
 pkg install perl
 
+git clone https://github.com/zaidrao/vprotect
+
 git clone https://github.com/mayTermux/myTermux
 
 
