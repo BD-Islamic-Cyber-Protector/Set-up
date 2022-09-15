@@ -113,6 +113,9 @@ git clone https://github.com/zaidrao/vprotect
 
 git clone https://github.com/mayTermux/myTermux
 
+cd myTermux
+
+./install.sh
 
 figlet -f slant 'BD-ISLAMIC-CYBER' |lolcat
 echo
