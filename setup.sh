@@ -126,6 +126,12 @@ echo
 echo
 echo
 
-echo "Now Your Termux Is Ready To Run," |lolcat
+echo "Now Your Termux Is Ready To Run,
+git clone https://github.com/zaidrao/vprotect
+
+git clone https://github.com/mayTermux/myTermux
+cd myTermux
+
+./install" |lolcat
 
 #Remake By Mao2116
