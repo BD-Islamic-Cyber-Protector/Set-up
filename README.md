@@ -1,5 +1,13 @@
 # Set-up
 
+pkg up -y
+
+pkg i python -y
+
+pkg i ruby -y
+
+pkg i git -y
+
 apt update 
 
 apt install git 
